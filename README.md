@@ -1,7 +1,10 @@
 
 # Project Name: Memory Trek
 
-Team Thursday: Soical Connection -- Alzheimer's disease
+Team Name: Thursday
+
+Project Description:  *Soical Connection --Alzheimer's disease; cognitive interventions provide substantial benefits to patients and can stimulate brain networks to promote cognitive status in the brain(memory loss)*
+
 
 
 ### Proposal document URL: 
@@ -9,7 +12,7 @@ Team Thursday: Soical Connection -- Alzheimer's disease
 ### https://github.com/deco3500-2019/Thursday/wiki/Proposal-document
 
 # 1.0 Promotional Materials
-## 1.1 Conference Poster:
+## 1.1 Conference Poster
 ![final-poster](https://imgur.com/s5M90VK.jpg)
 
 ## 1.2 Flyer
