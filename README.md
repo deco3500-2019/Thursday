@@ -13,3 +13,9 @@ Soical Connection -- Alzheimer's disease
 - Shihu Chen
 - Junya Mo
 
+# Poster:
+
+
+
+
+
