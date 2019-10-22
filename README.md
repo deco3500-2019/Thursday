@@ -8,7 +8,7 @@ Project Description:  *Soical Connection --Alzheimer's disease; cognitive interv
 # Summary
 Digital Prototype(https://xd.adobe.com/view/0831039e-181b-47ce-65ca-1a8e4fb6cbfe-7e00/)
 
-Functional prototype(https://s4415462-thursday.uqcloud.net/)
+Functional Prototype(https://s4415462-thursday.uqcloud.net/)
 
 Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-Process)
 
@@ -35,17 +35,14 @@ Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-P
 ![final-poster](https://imgur.com/ojBo2c0.jpg)
 ![final-poster](https://imgur.com/yfwMMln.jpg)
 
-# 3.0 Design Process
+# 3.0 Design Process & Project summary
+Project Summary
 
-#### 3.1 Background Research
+Sprint 1
 
-Alzheimer's disease is a physical brain disease that causes dementia, leading to impaired memory, thinking and behavior. (Dementia Australia, 2019). According to the Alzheimer's Association (2019), the proportion of Alzheimer's disease in dementia is as high as 60 percent to 80 With the increase of age, many elderly people's disease will gradually deteriorate. Worldwide, at least 44 million people have dementia, and 342, 000 Australians are living with this disease (Alzheimer's Association, 2019). The number of diseases is increasing every year, which also lead to burdens to many families.
+Sprint 2
 
-[Interview1 Questions & Insight](https://github.com/deco3500-2019/Thursday/wiki/Interview-1.0)
-
-#### 3.2 Wireframe Design and Analysis
-Our team hand-painted the Low Fidelity prototype and Storyboard.
-Detail can be found [here](https://github.com/deco3500-2018/social-media/tree/master/images)
+Sprint 3
 
 
 # Team Members:
