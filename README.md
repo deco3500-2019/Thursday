@@ -1,10 +1,11 @@
 
-# Project Name: Memory Trek (Team Thursday)
+# Project Name: Memory Trek
 
-Soical Connection -- Alzheimer's disease
+Team Thursday: Soical Connection -- Alzheimer's disease
 
 
-# Proposal document URL: 
+### Proposal document URL: 
+
 ### https://github.com/deco3500-2019/Thursday/wiki/Proposal-document
 
 # 1.0 Promotional Materials
