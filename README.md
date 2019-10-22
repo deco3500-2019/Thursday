@@ -14,8 +14,9 @@ Soical Connection -- Alzheimer's disease
 - Junya Mo
 
 # Poster:
+![final-poster](https://imgur.com/s5M90VK.jpg)
 
-
-
+# Flyer
+![final-poster](https://imgur.com/9WBDSXB.jpg)
 
 
