@@ -36,9 +36,12 @@ Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-P
 
 - 2.5 Functional Prototype -
 
-![functional prototype](https://imgur.com)
-![functional prototype](https://imgur.com)
-![functional prototype](https://imgur.com)
+![Main page](https://imgur.com/cHttaTo.png)
+
+![Upload page](https://imgur.com/qs4H9Ea.png)
+
+![Exercise page](https://imgur.com/QyrMQvw.png)
+
 
 # 3.0 Design Process & Project summary
 Project Summary
