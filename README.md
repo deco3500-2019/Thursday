@@ -62,6 +62,8 @@ Sprint 3
 
 * [User testing evaluation](https://github.com/deco3500-2019/Thursday/wiki/User-testing-evaluation)
 
+Sprint 4
+
 * [Final digital prototype](https://github.com/deco3500-2019/Thursday/wiki/Final-Digital-Prototype)
 
 * [Team Contribution](https://github.com/deco3500-2019/Thursday/wiki/Team-contribution)
