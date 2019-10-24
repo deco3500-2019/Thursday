@@ -52,9 +52,6 @@ We have developed an application that will support memory exercise for people wi
 
 In the design process, we conducted background research with the literature, and conducted two rounds of interviews since we could not directly access the target users, we chose to interview their families. In order to improve our prototype, we did the user test, and the users were mainly their family members or people with certain knowledge of the disease. We have four iterations of digital prototype and a website as a based functionality prototype.
 
-Project reflection
-The obstacle in our design process is that we cannot directly access our target users, and hard to do the user testing. In our iteration, we attempt to find the relevant people to obtained feedback, but there is uncertainly for the research we are doing represents our target audience, thus we attempt to make design and solution get closure to the target users. Even though the tester (patient's family members) we selected were thinking from the perspective of the patients, they were still partial, because they had not experienced the experience personally, so they could not fully understand the experience. Even if it makes more assumptions, it is still a spectator's perspective. To this end, we used several reliable research findings to make up for this missing piece, hoping to make the application appropriate for patients.
-
 
 ### Sprint 1
 
@@ -81,6 +78,8 @@ The obstacle in our design process is that we cannot directly access our target 
 * [User testing evaluation](https://github.com/deco3500-2019/Thursday/wiki/User-testing-evaluation)
 
 ### Sprint 4
+
+* [Functional prototype](https://github.com/deco3500-2019/Thursday/wiki/Functional-Prototype)
 
 * [Final digital prototype](https://github.com/deco3500-2019/Thursday/wiki/Final-Digital-Prototype)
 
