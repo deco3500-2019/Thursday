@@ -48,8 +48,25 @@ Sprint 1
 
 Sprint 2
 
+* [Week 9 - Stand Up Summary](https://github.com/deco3500-2019/Thursday/wiki/Week-9-Stand-Up-Summary)
+
+* [Interview 2.0](https://github.com/deco3500-2019/Thursday/wiki/Interview-2.0)
+
+* [Medium fidelity prototype](https://github.com/deco3500-2019/Thursday/wiki/Medium-Fidelity-prototype)
+
 Sprint 3
 
+* [Week 11 - Stand Up Summary](https://github.com/deco3500-2019/Thursday/wiki/Week-11-Stand-up-Summary)
+
+* [High fidelity prototype](https://github.com/deco3500-2019/Thursday/wiki/High-fidelity-prototype)
+
+* [User testing evaluation](https://github.com/deco3500-2019/Thursday/wiki/User-testing-evaluation)
+
+* [Final digital prototype](https://github.com/deco3500-2019/Thursday/wiki/Final-Digital-Prototype)
+
+* [Team Contribution](https://github.com/deco3500-2019/Thursday/wiki/Team-contribution)
+
+* [Design Process](https://github.com/deco3500-2019/Thursday/wiki/Design-Process)
 
 # Team Members:
 - Yaxin Wang - 44154626
