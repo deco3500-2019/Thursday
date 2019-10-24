@@ -34,7 +34,7 @@ Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-P
 ![final-poster](https://imgur.com/ojBo2c0.jpg)
 ![final-poster](https://imgur.com/yfwMMln.jpg)
 
-- 2.5 Functional Prototype -
+- 2.5 Functional Prototype - https://s4415462-thursday.uqcloud.net/index.html
 
 ![Main page](https://imgur.com/cHttaTo.png)
 
