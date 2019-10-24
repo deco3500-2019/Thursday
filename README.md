@@ -6,9 +6,9 @@ Team Name: Thursday
 Project Description:  *Soical Connection --Alzheimer's disease; cognitive interventions provide substantial benefits to patients and can stimulate brain networks to promote cognitive status in the brain(memory loss)*
 
 # Summary
-Digital Prototype(https://xd.adobe.com/view/0831039e-181b-47ce-65ca-1a8e4fb6cbfe-7e00/)
+Digital Prototype (https://xd.adobe.com/view/0831039e-181b-47ce-65ca-1a8e4fb6cbfe-7e00/)
 
-Functional Prototype(https://s4415462-thursday.uqcloud.net/)
+Functional Prototype (https://s4415462-thursday.uqcloud.net/)
 
 Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-Process)
 
