@@ -40,6 +40,11 @@ Project Summary
 
 Sprint 1
 
+![Proposal Document](https://github.com/deco3500-2019/Thursday/wiki/Proposal-document)
+![Interview 1.0](https://github.com/deco3500-2019/Thursday/wiki/Interview-1.0)
+![Low fidelity prototype](https://github.com/deco3500-2019/Thursday/wiki/Low-Fidelity-Prototype)
+
+
 Sprint 2
 
 Sprint 3
@@ -48,5 +53,5 @@ Sprint 3
 # Team Members:
 - Yaxin Wang - 44154626
 - Xinzhou Wu - 4518854
-- Shihu Chen - 44604297
+- Shihua Chen - 44604297
 - Junya Mo - 43833241
