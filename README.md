@@ -12,6 +12,7 @@ Functional Prototype (https://s4415462-thursday.uqcloud.net/)
 
 # Design document
 Proposal document(https://github.com/deco3500-2019/Thursday/wiki/Proposal-document)
+
 Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-Process)
 
 
