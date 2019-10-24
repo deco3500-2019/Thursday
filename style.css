@@ -1,0 +1,41 @@
+.c1 { top: 50px; }
+body {
+	background-image: url(images/ggggggg.png);
+	background-size: 1280px 1000px;
+
+}
+label {
+	
+	margin-top: 50px;
+	text-align: center;
+	font: 300 48px/1.5 Lato, sans-serif;
+	
+}
+
+p {
+
+  color: #4b507a;
+  font: 300 24px/1.5 Lato, sans-serif;
+  margin: 1em auto;
+  max-width: 36em;
+  padding: 1em 1em 2em;
+  text-align: center;
+}
+
+input {
+	
+	margin-bottom: 50px;
+	text-align: center;
+	
+}
+div {
+	
+	text-align: center;
+
+
+
+
+
+}
+
+
