@@ -40,10 +40,11 @@ Project Summary
 
 Sprint 1
 
-![Proposal Document](https://github.com/deco3500-2019/Thursday/wiki/Proposal-document)
-![Interview 1.0](https://github.com/deco3500-2019/Thursday/wiki/Interview-1.0)
-![Low fidelity prototype](https://github.com/deco3500-2019/Thursday/wiki/Low-Fidelity-Prototype)
+* [Proposal Document](https://github.com/deco3500-2019/Thursday/wiki/Proposal-document)
 
+* [Interview 1.0](https://github.com/deco3500-2019/Thursday/wiki/Interview-1.0)
+
+* [Low fidelity prototype](https://github.com/deco3500-2019/Thursday/wiki/Low-Fidelity-Prototype)
 
 Sprint 2
 
