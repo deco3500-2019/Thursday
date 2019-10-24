@@ -30,10 +30,12 @@ Design process document (https://github.com/deco3500-2019/Thursday/wiki/Design-P
 
 - 2.4 Final digital prototype - https://github.com/deco3500-2019/Thursday/wiki/Final-Digital-Prototype
 
-
 ![final-poster](https://imgur.com/0BL5FkB.jpg)
 ![final-poster](https://imgur.com/ojBo2c0.jpg)
 ![final-poster](https://imgur.com/yfwMMln.jpg)
+
+- 2.5 Website Prototype - 
+
 
 # 3.0 Design Process & Project summary
 Project Summary
